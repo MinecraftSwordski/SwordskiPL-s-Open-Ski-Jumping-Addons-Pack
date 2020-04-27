@@ -39,7 +39,7 @@ List of addons below (those marked will be future addons):
    - F1 '14 -'20 Drivers Addon,
    - *World Cup Top 10 of 1995 / 1996-2008 / 2009 Addon*,
    - *World Cup 2000-2006 Hills Addon* (does not apply to ski jumping hills whose current profiles are from before 2000) and those rebuilt in 2000-2006 (these hills are in the game), some of the hills will appear in the update below),
-   - *Mo 'Hills Addon v0.5.0*,
+   - *Mo 'Hills Addon v0.3.0*,
    - *F1 1988-1992 Drivers Addon*,
    - *F1 All McLaren Drivers Addon*,
    - *World Cup 2000/2001 Top 65 Jumpers Addon* (also includes Dmitriy Vassiliev),
