@@ -33,12 +33,11 @@ I will present to you all my additions to the game on:
    - calendars etc.
 
 List of addons below (those marked will be future addons):
-   - Mo 'Hills Addon v0.2.1,
+   - Mo 'Hills Addon v0.3.0,
    - Mo 'Countries Addon,
    - F1 '14 -'20 Drivers Addon,
    - *World Cup Top 10 of 1995 / 1996-2008 / 2009 Addon*,
    - *World Cup 2000-2006 Hills Addon* (does not apply to ski jumping hills whose current profiles are from before 2000) and those rebuilt in 2000-2006 (these hills are in the game), some of the hills will appear in the update below),
-   - *Mo 'Hills Addon v0.3.0*,
    - *F1 1988-1992 Drivers Addon*,
    - *F1 All McLaren Drivers Addon*,
    - *World Cup 2000/2001 Top 65 Jumpers Addon* (also includes Dmitriy Vassiliev),
