@@ -9,13 +9,12 @@ Sprezentuję wam wszystkie moje dodatki do gry na:
   - kalendarze itp.
 
 Lista addonów poniżej (te oznaczone to będą przyszłe dodatki):
-  - Mo' Hills Addon v0.2.1,
+  - Mo' Hills Addon v0.3.0,
   - Mo' Countries Addon,
   - F1 '14-'20 Drivers Addon,
   - *World Cup Top 10 of 1995/1996-2008/2009 Addon*,
   - *World Cup 2000-2006 Hills Addon* (nie dotyczy skoczni, których obecne profile są sprzed 2000 roku
   oraz tych przebudowanych w latach 2000-2006 (te skocznie są w grze), część skoczni pojawi się w aktualizacji poniżej),
-  - *Mo' Hills Addon v0.3.0*,
   - *F1 1988-1992 Drivers Addon*,
   - *F1 All McLaren Drivers Addon*,
   - *World Cup 2000/2001 Top 65 Jumpers Addon* (zawiera także Dimitrija Wasiljewa),
